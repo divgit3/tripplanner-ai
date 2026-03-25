@@ -33,7 +33,24 @@ TripPlanner-AI helps users discover attractions based on travel intent and gener
 - OpenStreetMap + Wikipedia data
 
 ---
+<strong> Limitations: </strong>
+- Search relevance needs refinement for some query types
+- Similar place types can dominate results (e.g., many parks)
+- Yelp data and popularity signals not yet integrated
+- Weather-aware planning not implemented
 
+---
+<strong> Roadmap: </strong>
+- Improve ranking and diversity
+- Integrate Yelp data
+- Add RAG-based trip assistant
+- Add weather-aware itinerary planning
+
+---
+Author:
+- Divya Rajaraman
+
+---
 ## Setup
 
 ```bash
@@ -47,21 +64,5 @@ pip install -r requirements.txt
 uvicorn api.main:app --reload --port 8001
 streamlit run ui/app.py
 
----
-## Limitations
-Search relevance needs refinement for some query types
-Similar place types can dominate results (e.g., many parks)
-Yelp data and popularity signals not yet integrated
-Weather-aware planning not implemented
 
----
-## Roadmap
-Improve ranking and diversity
-Integrate Yelp data
-Add RAG-based trip assistant
-Add weather-aware itinerary planning
-
----
-Author
-Divya Rajaraman
 
