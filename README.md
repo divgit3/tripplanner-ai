@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 =======
 # TripPlanner-AI
@@ -46,16 +46,22 @@ pip install -r requirements.txt
 
 uvicorn api.main:app --reload --port 8001
 streamlit run ui/app.py
-Limitations
+
+---
+## Limitations
 Search relevance needs refinement for some query types
 Similar place types can dominate results (e.g., many parks)
 Yelp data and popularity signals not yet integrated
 Weather-aware planning not implemented
-Roadmap
+
+---
+## Roadmap
 Improve ranking and diversity
 Integrate Yelp data
 Add RAG-based trip assistant
 Add weather-aware itinerary planning
+
+---
 Author
 Divya Rajaraman
->>>>>>> 0ee37d8 (Add README for TripPlanner - AI)
+
