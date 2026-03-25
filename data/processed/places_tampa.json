@@ -1,0 +1,7134 @@
+[
+  {
+    "source": "osm",
+    "source_id": "node_282685801",
+    "name": "Henry B. Plant Museum",
+    "city": "Tampa",
+    "lat": 27.9462133,
+    "lon": -82.4641818,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "West North B Street, Tampa, FL, 33606",
+    "website": "https://www.plantmuseum.com/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:postcode": "33606",
+      "addr:state": "FL",
+      "addr:street": "West North B Street",
+      "check_date:opening_hours": "2023-07-05",
+      "fee": "yes",
+      "museum": "history",
+      "name": "Henry B. Plant Museum",
+      "opening_hours": "Mo off; Tu-Sa 10:00-17:00; Su 12:00-17:00; Dec off; Jul 04 off",
+      "tourism": "museum",
+      "website": "https://www.plantmuseum.com/",
+      "wheelchair": "yes",
+      "wikidata": "Q3132598"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_358699618",
+    "name": "Tampa's Lowry Park Zoo",
+    "city": "Tampa",
+    "lat": 28.0142673,
+    "lon": -82.4700304,
+    "category": "zoo",
+    "subcategories": [
+      "tourism:zoo"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "5",
+      "gnis:feature_id": "286182",
+      "name": "Tampa's Lowry Park Zoo",
+      "tourism": "zoo"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_358704493",
+    "name": "Rogers Park",
+    "city": "Tampa",
+    "lat": 28.0222412,
+    "lon": -82.4237049,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "8",
+      "gnis:feature_id": "289924",
+      "leisure": "park",
+      "name": "Rogers Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_358704625",
+    "name": "Rowlett Park",
+    "city": "Tampa",
+    "lat": 28.0255744,
+    "lon": -82.4314828,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "11",
+      "gnis:feature_id": "290021",
+      "leisure": "park",
+      "name": "Rowlett Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_358707672",
+    "name": "Temple Crest Park",
+    "city": "Tampa",
+    "lat": 28.0236773,
+    "lon": -82.4188201,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "10",
+      "gnis:feature_id": "292101",
+      "leisure": "park",
+      "name": "Temple Crest Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_358758048",
+    "name": "Tampa Palms Hillsborough River Park",
+    "city": "Tampa",
+    "lat": 28.0861,
+    "lon": -82.359,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "7",
+      "gnis:feature_id": "2482126",
+      "leisure": "park",
+      "name": "Tampa Palms Hillsborough River Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_544355270",
+    "name": "Solar Rotary",
+    "city": "Tampa",
+    "lat": 28.0590814,
+    "lon": -82.4109088,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": "https://www.ira.usf.edu/PA/Pages/pa_holt.html",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artist_name": "Nancy Holt",
+      "artwork_type": "installation",
+      "material": "aluminium",
+      "name": "Solar Rotary",
+      "source": "survey;local knowledge",
+      "tourism": "artwork",
+      "website": "https://www.ira.usf.edu/PA/Pages/pa_holt.html"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_736956784",
+    "name": "Recyclosaurus",
+    "city": "Tampa",
+    "lat": 28.054051,
+    "lon": -82.402932,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "internet_access": "no",
+      "name": "Recyclosaurus",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_1509221797",
+    "name": "401 Gardened Gazebo",
+    "city": "Tampa",
+    "lat": 28.062615,
+    "lon": -82.4153902,
+    "category": "viewpoint",
+    "subcategories": [
+      "tourism:viewpoint"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "401 Gardened Gazebo",
+      "source": "GPS",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_1510025780",
+    "name": "402 Gardened Gazebo",
+    "city": "Tampa",
+    "lat": 28.0626643,
+    "lon": -82.4144381,
+    "category": "viewpoint",
+    "subcategories": [
+      "tourism:viewpoint"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "402 Gardened Gazebo",
+      "source": "GPS",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_1556438239",
+    "name": "Maze",
+    "city": "Tampa",
+    "lat": 28.0640913,
+    "lon": -82.4175591,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Maze",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209930628",
+    "name": "Rango the Orangutan Memorial",
+    "city": "Tampa",
+    "lat": 28.013563,
+    "lon": -82.470613,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "name": "Rango the Orangutan Memorial"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209942623",
+    "name": "Jungle Carousel",
+    "city": "Tampa",
+    "lat": 28.0143959,
+    "lon": -82.4704575,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Jungle Carousel",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209942989",
+    "name": "Endangered Wildlife Wall",
+    "city": "Tampa",
+    "lat": 28.01421,
+    "lon": -82.470328,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "name": "Endangered Wildlife Wall"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209951830",
+    "name": "Tiger coaster",
+    "city": "Tampa",
+    "lat": 28.014847,
+    "lon": -82.470141,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Tiger coaster",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209952146",
+    "name": "Petting zoo",
+    "city": "Tampa",
+    "lat": 28.014712,
+    "lon": -82.469867,
+    "category": "zoo",
+    "subcategories": [
+      "tourism:zoo"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Petting zoo",
+      "tourism": "zoo"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209956792",
+    "name": "Bumper boats and flyin bananas",
+    "city": "Tampa",
+    "lat": 28.014361,
+    "lon": -82.469427,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Bumper boats and flyin bananas",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209960309",
+    "name": "Pony ride",
+    "city": "Tampa",
+    "lat": 28.014885,
+    "lon": -82.469486,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Pony ride",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2209965513",
+    "name": "Train",
+    "city": "Tampa",
+    "lat": 28.014482,
+    "lon": -82.469677,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Train",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2210009492",
+    "name": "Science Discovery Center",
+    "city": "Tampa",
+    "lat": 28.012569,
+    "lon": -82.471464,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": null,
+    "website": "https://zootampa.org",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Science Discovery Center",
+      "tourism": "museum",
+      "website": "https://zootampa.org"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2211656953",
+    "name": "Giraffe Feeding & Viewing",
+    "city": "Tampa",
+    "lat": 28.016054,
+    "lon": -82.470473,
+    "category": "viewpoint",
+    "subcategories": [
+      "tourism:viewpoint"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Giraffe Feeding & Viewing",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2223086573",
+    "name": "Name Art",
+    "city": "Tampa",
+    "lat": 28.014422,
+    "lon": -82.4695411,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Name Art",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_2641006503",
+    "name": "Centro Ybor Museum",
+    "city": "Tampa",
+    "lat": 27.960871,
+    "lon": -82.442115,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Centro Ybor Museum",
+      "tourism": "museum"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_3147216169",
+    "name": "Crosses for the killed TPD officers David Curtis and Jeffrey Kocab",
+    "city": "Tampa",
+    "lat": 27.9725151,
+    "lon": -82.4018567,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "name": "Crosses for the killed TPD officers David Curtis and Jeffrey Kocab"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_4583124690",
+    "name": "Florida State Fairgrounds",
+    "city": "Tampa",
+    "lat": 27.9672515,
+    "lon": -82.3898268,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": "4800, us Highway 301, 33610",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:housenumber": "4800",
+      "addr:postcode": "33610",
+      "addr:street": "us Highway 301",
+      "name": "Florida State Fairgrounds",
+      "name:en": "Florida State Fairgrounds",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_4608375173",
+    "name": "JFK Memorial Statue",
+    "city": "Tampa",
+    "lat": 27.9458968,
+    "lon": -82.4636702,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "JFK Memorial Statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_4640777766",
+    "name": "Parkland Park",
+    "city": "Tampa",
+    "lat": 27.9339476,
+    "lon": -82.493188,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Parkland Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_4717179512",
+    "name": "Dr. King Bust",
+    "city": "Tampa",
+    "lat": 28.0625675,
+    "lon": -82.4132568,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artist_name": "Linda Ackley",
+      "artwork_type": "bust",
+      "name": "Dr. King Bust",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_4921360121",
+    "name": "Busch Garden",
+    "city": "Tampa",
+    "lat": 28.0359218,
+    "lon": -82.4250362,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Busch Garden",
+      "name:en": "Busch Garden",
+      "name:it": "Busch Garden",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_5851701863",
+    "name": "Treehouse trek",
+    "city": "Tampa",
+    "lat": 28.0351963,
+    "lon": -82.4256908,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Treehouse trek",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_7221137065",
+    "name": "Scarfone/Hartley Gallery",
+    "city": "Tampa",
+    "lat": 27.9467233,
+    "lon": -82.4686919,
+    "category": "gallery",
+    "subcategories": [
+      "tourism:gallery"
+    ],
+    "address": "310, North Boulevard, Tampa, FL, 33606",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "310",
+      "addr:postcode": "33606",
+      "addr:state": "FL",
+      "addr:street": "North Boulevard",
+      "name": "Scarfone/Hartley Gallery",
+      "tourism": "gallery"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_7929364512",
+    "name": "Vaughn Center Courtyard",
+    "city": "Tampa",
+    "lat": 27.9457704,
+    "lon": -82.4660742,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Vaughn Center Courtyard"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_7929364513",
+    "name": "Delo Park",
+    "city": "Tampa",
+    "lat": 27.9452469,
+    "lon": -82.4656563,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Delo Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_7929364514",
+    "name": "Agliano Park",
+    "city": "Tampa",
+    "lat": 27.9449403,
+    "lon": -82.4678147,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Agliano Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_8462714602",
+    "name": "City of Tampa Mural",
+    "city": "Tampa",
+    "lat": 27.9535518,
+    "lon": -82.4596844,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "City of Tampa Mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_9466171432",
+    "name": "John F. Germany Legacy Park",
+    "city": "Tampa",
+    "lat": 28.0591825,
+    "lon": -82.4121763,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "John F. Germany Legacy Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620329",
+    "name": "Paulina Pedroso",
+    "city": "Tampa",
+    "lat": 27.9421568,
+    "lon": -82.4495953,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html#collection-item-lightbox-12990006",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Paulina Pedroso",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html#collection-item-lightbox-12990006"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620333",
+    "name": "Hugh Campbell Macfarlane",
+    "city": "Tampa",
+    "lat": 27.940427,
+    "lon": -82.4552385,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/hugh-campbell-macfarlane",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Hugh Campbell Macfarlane",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/hugh-campbell-macfarlane"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620348",
+    "name": "Francisco Aristides Rodriquez, Junior",
+    "city": "Tampa",
+    "lat": 27.9419647,
+    "lon": -82.4581648,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/francisco-aristides-rodriguez-jr-",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Francisco Aristides Rodriquez, Junior",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/francisco-aristides-rodriguez-jr-"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620362",
+    "name": "Peter Oliphant Knight",
+    "city": "Tampa",
+    "lat": 27.940362,
+    "lon": -82.4550335,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/peter-oliphant-knight",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Peter Oliphant Knight",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/peter-oliphant-knight"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620368",
+    "name": "Cody Fowler",
+    "city": "Tampa",
+    "lat": 27.9418357,
+    "lon": -82.449809,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/cody-fowler",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Cody Fowler",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/cody-fowler"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620372",
+    "name": "Vicente Martinez-Ybor",
+    "city": "Tampa",
+    "lat": 27.9430037,
+    "lon": -82.4491547,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/vicente-martinez-ybor",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Vicente Martinez-Ybor",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/vicente-martinez-ybor"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620394",
+    "name": "Gavino Gutierrez",
+    "city": "Tampa",
+    "lat": 27.9428204,
+    "lon": -82.449235,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/gavino-gutierrez",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Gavino Gutierrez",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/gavino-gutierrez"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620404",
+    "name": "Meroba Hooker Crane",
+    "city": "Tampa",
+    "lat": 27.9411939,
+    "lon": -82.4522637,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/meroba-hooker-crane",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Meroba Hooker Crane",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/meroba-hooker-crane"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620410",
+    "name": "Edward Daniel Davis",
+    "city": "Tampa",
+    "lat": 27.941604,
+    "lon": -82.4506288,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/edward-daniel-davis",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Edward Daniel Davis",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/edward-daniel-davis"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115620413",
+    "name": "Moses White",
+    "city": "Tampa",
+    "lat": 27.9422678,
+    "lon": -82.4579608,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/moses-white",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Moses White",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/moses-white"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115621818",
+    "name": "Cyril (C.) Blythe Andrews",
+    "city": "Tampa",
+    "lat": 27.9412579,
+    "lon": -82.4518236,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/cyril-blythe-andrews",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Cyril (C.) Blythe Andrews",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/cyril-blythe-andrews"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115621827",
+    "name": "Stephen M. Sparkman",
+    "city": "Tampa",
+    "lat": 27.9416751,
+    "lon": -82.4505004,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/stephen-m-sparkman",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Stephen M. Sparkman",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/stephen-m-sparkman"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115621830",
+    "name": "James McKay, Senior",
+    "city": "Tampa",
+    "lat": 27.9414999,
+    "lon": -82.4579779,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/james-mckay-sr-",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "James McKay, Senior",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/james-mckay-sr-"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115621837",
+    "name": "Florida's First People - The Mound Builders",
+    "city": "Tampa",
+    "lat": 27.941456,
+    "lon": -82.4511532,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/florida-s-first-people-the-mound-builders",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Florida's First People - The Mound Builders",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/florida-s-first-people-the-mound-builders"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10115621839",
+    "name": "Victoriano Mantiega",
+    "city": "Tampa",
+    "lat": 27.9424667,
+    "lon": -82.4495004,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/victoriano-manteiga",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Victoriano Mantiega",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/victoriano-manteiga"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10198454352",
+    "name": "Memorial Highway",
+    "city": "Tampa",
+    "lat": 27.9450028,
+    "lon": -82.5296354,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "plaque",
+      "name": "Memorial Highway",
+      "ref:hmdb": "101644"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10628620523",
+    "name": "José Martí",
+    "city": "Tampa",
+    "lat": 27.9607335,
+    "lon": -82.445298,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artwork_type": "statue",
+      "description": "El pueblo de Tampa a José Martí\n\"José Martí Memorial Foundation\"  Tampa, Florida\nFebrero 1960",
+      "name": "José Martí",
+      "start_date": "1960-02",
+      "tourism": "artwork",
+      "wikimedia_commons": "File:Parque Amigos de José Martí.jpg"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10628620534",
+    "name": "La Casa de Pedroso",
+    "city": "Tampa",
+    "lat": 27.9608886,
+    "lon": -82.4452531,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artwork_type": "plaque",
+      "board_type": "history",
+      "description": "Un marcador histórico dedicado a la revolucionaria Paulina Pedroso, que alojó a Martí mientras se curaba de un intento de asesinato y escribía discursos en su cabaña.",
+      "information": "board",
+      "name": "La Casa de Pedroso",
+      "tourism": "artwork",
+      "wikimedia_commons": "File:Tampa Ybor City Marti Park marker01.jpg"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_10628620561",
+    "name": "Antonio Maceo",
+    "city": "Tampa",
+    "lat": 27.9607511,
+    "lon": -82.4452427,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "artwork_type": "bust",
+      "inscription": "Antonio Maceo Lugarteniente General Ejercito libertador de Cuba",
+      "material": "bronze",
+      "name": "Antonio Maceo",
+      "tourism": "artwork",
+      "wikimedia_commons": "File:Tampa Ybor City Marti Park Grajales01.jpg"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11534941192",
+    "name": "Port Tampa Cemetery",
+    "city": "Tampa",
+    "lat": 27.8681381,
+    "lon": -82.5070244,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "alt_name": "Port Tampa Black Cemetery",
+      "historic": "memorial",
+      "memorial": "plaque",
+      "memorial:website": "https://www.hmdb.org/m.asp?m=214931",
+      "name": "Port Tampa Cemetery",
+      "note": "https://www.tampabay.com/life-culture/history/2021/02/23/historic-marker-honors-black-cemetery-erased-during-construction-of-macdill/",
+      "ref:hmdb": "214931",
+      "start_date": "2021-02"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598319665",
+    "name": "Blanch Armwood",
+    "city": "Tampa",
+    "lat": 27.9588884,
+    "lon": -82.4634658,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/blanche-armwood",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Blanch Armwood",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/blanche-armwood"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598319668",
+    "name": "Ignacio Haya",
+    "city": "Tampa",
+    "lat": 27.9549215,
+    "lon": -82.4643552,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/ignacio-haya",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Ignacio Haya",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/ignacio-haya"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598324269",
+    "name": "Elizabeth Dortsch Barnard",
+    "city": "Tampa",
+    "lat": 27.9586453,
+    "lon": -82.463546,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/elizabeth-dortsch-barnard",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Elizabeth Dortsch Barnard",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/elizabeth-dortsch-barnard"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598324271",
+    "name": "Clara C. Frye",
+    "city": "Tampa",
+    "lat": 27.9591603,
+    "lon": -82.4634647,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/clara-c-frye",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Clara C. Frye",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/clara-c-frye"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598324272",
+    "name": "Mack Ramsey Winton, M.D.",
+    "city": "Tampa",
+    "lat": 27.9540046,
+    "lon": -82.4645235,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/mack-ramsey-winton-md",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Mack Ramsey Winton, M.D.",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/mack-ramsey-winton-md"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598324273",
+    "name": "Francisco (Frank) Scozzari Adamo",
+    "city": "Tampa",
+    "lat": 27.9594411,
+    "lon": -82.4634869,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/francsco-frank-scozzari-adamo",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Francisco (Frank) Scozzari Adamo",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/francsco-frank-scozzari-adamo"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_11598324275",
+    "name": "Ossian Bingley Hart",
+    "city": "Tampa",
+    "lat": 27.9551103,
+    "lon": -82.4643065,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/ossian-bingley-hart",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "bust",
+      "name": "Ossian Bingley Hart",
+      "website": "https://thetampariverwalk.com/visit/historical-monument-trail.html/title/ossian-bingley-hart"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_12871417501",
+    "name": "Margaritsville at Sea Port",
+    "city": "Tampa",
+    "lat": 27.9500216,
+    "lon": -82.4438277,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Margaritsville at Sea Port",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_12871424602",
+    "name": "Royal Caribbean cruise port",
+    "city": "Tampa",
+    "lat": 27.9431258,
+    "lon": -82.4458949,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": "651, Channelside Drive",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:housenumber": "651",
+      "addr:street": "Channelside Drive",
+      "name": "Royal Caribbean cruise port",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_12871426601",
+    "name": "Carnival cruise port",
+    "city": "Tampa",
+    "lat": 27.9457063,
+    "lon": -82.444141,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": "815, Channelside Drive",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:housenumber": "815",
+      "addr:street": "Channelside Drive",
+      "name": "Carnival cruise port",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_13451036377",
+    "name": "Port Tampa Cemetery",
+    "city": "Tampa",
+    "lat": 27.8639748,
+    "lon": -82.5138152,
+    "category": "historic_monument",
+    "subcategories": [
+      "historic:monument"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "monument",
+      "name": "Port Tampa Cemetery"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "node_13470922412",
+    "name": "Florida Museum of Photographic Arts",
+    "city": "Tampa",
+    "lat": 27.9603908,
+    "lon": -82.4407195,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "1630, East 7th Avenue, Tampa, FL, 33605",
+    "website": "https://www.fmopa.org/",
+    "phone": "+1-813-221-2222",
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1630",
+      "addr:postcode": "33605",
+      "addr:state": "FL",
+      "addr:street": "East 7th Avenue",
+      "museum": "art",
+      "name": "Florida Museum of Photographic Arts",
+      "phone": "+1-813-221-2222",
+      "tourism": "museum",
+      "website": "https://www.fmopa.org/"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_23946179",
+    "name": "Tony Janus Park",
+    "city": "Tampa",
+    "lat": 27.9425208,
+    "lon": -82.4594402,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Tony Janus Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_23973283",
+    "name": "Phil Bourquardez Park",
+    "city": "Tampa",
+    "lat": 27.9599841,
+    "lon": -82.4613958,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Phil Bourquardez Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_23981446",
+    "name": "AIDS Memorial Park",
+    "city": "Tampa",
+    "lat": 27.9409184,
+    "lon": -82.4601276,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "AIDS Memorial Park",
+      "wikidata": "Q34807583"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_23989456",
+    "name": "Anderson Park",
+    "city": "Tampa",
+    "lat": 27.9343134,
+    "lon": -82.4773901,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "park",
+      "name": "Anderson Park",
+      "wikidata": "Q34813157"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_24005433",
+    "name": "DeSoto Park",
+    "city": "Tampa",
+    "lat": 27.9471067,
+    "lon": -82.4283099,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "DeSoto Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_24005547",
+    "name": "McKay Bay Nature Park",
+    "city": "Tampa",
+    "lat": 27.9521376,
+    "lon": -82.421261,
+    "category": "nature_reserve",
+    "subcategories": [
+      "leisure:nature_reserve"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "McKay Bay Nature Park",
+      "wikidata": "Q17080683"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_26216188",
+    "name": "Ybor City Museum",
+    "city": "Tampa",
+    "lat": 27.9619192,
+    "lon": -82.4383459,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "1818, East 9th Avenue, Tampa, FL, 33605",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1818",
+      "addr:postcode": "33605",
+      "addr:state": "FL",
+      "addr:street": "East 9th Avenue",
+      "atm": "no",
+      "building": "yes",
+      "height": "13.87",
+      "internet_access": "no",
+      "name": "Ybor City Museum",
+      "tourism": "museum",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_26216272",
+    "name": "Centennial Park",
+    "city": "Tampa",
+    "lat": 27.961355,
+    "lon": -82.4386002,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Centennial Park",
+      "wikidata": "Q34917157"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_26265934",
+    "name": "Straz Center for The Performing Arts",
+    "city": "Tampa",
+    "lat": 27.9516273,
+    "lon": -82.4639486,
+    "category": "arts_centre",
+    "subcategories": [
+      "amenity:arts_centre"
+    ],
+    "address": "1010, North W. C. Maciness Place, Tampa, FL",
+    "website": "https://www.strazcenter.org/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1010",
+      "addr:state": "FL",
+      "addr:street": "North W. C. Maciness Place",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "height": "37.91",
+      "name": "Straz Center for The Performing Arts",
+      "website": "https://www.strazcenter.org/"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_26610766",
+    "name": "Cuscaden Park",
+    "city": "Tampa",
+    "lat": 27.968956,
+    "lon": -82.443574,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Cuscaden Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_27251884",
+    "name": "18th Avenue Park",
+    "city": "Tampa",
+    "lat": 27.9693363,
+    "lon": -82.4252199,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "18th Avenue Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_27428655",
+    "name": "Dr. Martin Luther King, Jr. Recreation Complex",
+    "city": "Tampa",
+    "lat": 27.961437,
+    "lon": -82.4756134,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "2200, North Oregon Avenue, Tampa, FL, 33607",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "2200",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "North Oregon Avenue",
+      "leisure": "park",
+      "name": "Dr. Martin Luther King, Jr. Recreation Complex",
+      "name:etymology:wikidata": "Q8027"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_27495109",
+    "name": "Bayshore Linear Park",
+    "city": "Tampa",
+    "lat": 27.9411281,
+    "lon": -82.4593852,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Bayshore Linear Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_27889717",
+    "name": "Borrell Park",
+    "city": "Tampa",
+    "lat": 27.9751152,
+    "lon": -82.4518939,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "alt_name": "Borrell Park-Nebraska Ave Park",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=148098455216753",
+      "leisure": "park",
+      "name": "Borrell Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_28093787",
+    "name": "Rough Riders Park",
+    "city": "Tampa",
+    "lat": 27.9600833,
+    "lon": -82.4460574,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Rough Riders Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_28924443",
+    "name": "Marjorie Park",
+    "city": "Tampa",
+    "lat": 27.9323727,
+    "lon": -82.4549909,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Marjorie Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_29227976",
+    "name": "Herman Massey Park",
+    "city": "Tampa",
+    "lat": 27.9524277,
+    "lon": -82.4602944,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1002, North Franklin Street, Tampa",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1002",
+      "addr:street": "North Franklin Street",
+      "leisure": "park",
+      "name": "Herman Massey Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_32141032",
+    "name": "Branchton Park",
+    "city": "Tampa",
+    "lat": 28.1428579,
+    "lon": -82.2844849,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "created_by": "Potlatch 0.10f",
+      "leisure": "park",
+      "name": "Branchton Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_32534602",
+    "name": "Plant Park",
+    "city": "Tampa",
+    "lat": 27.9466956,
+    "lon": -82.4627079,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Plant Park",
+      "operator": "University of Tampa"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_32866049",
+    "name": "Plymouth Park",
+    "city": "Tampa",
+    "lat": 27.9735965,
+    "lon": -82.4747652,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Plymouth Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_35023157",
+    "name": "Cross Creek Park",
+    "city": "Tampa",
+    "lat": 28.1563063,
+    "lon": -82.3209471,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Cross Creek Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_35875323",
+    "name": "Morgan Street Park",
+    "city": "Tampa",
+    "lat": 27.9638981,
+    "lon": -82.457621,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Morgan Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_35877130",
+    "name": "Robles Park",
+    "city": "Tampa",
+    "lat": 27.9740215,
+    "lon": -82.45501,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Robles Park",
+      "wikidata": "Q7353205",
+      "wikipedia": "en:Robles Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_40662274",
+    "name": "Copeland Park",
+    "city": "Tampa",
+    "lat": 28.0500003,
+    "lon": -82.4402458,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Copeland Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_41590733",
+    "name": "Greco Softball Complex",
+    "city": "Tampa",
+    "lat": 28.0494301,
+    "lon": -82.4032916,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Greco Softball Complex"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_41653334",
+    "name": "Vila Brothers Park",
+    "city": "Tampa",
+    "lat": 27.9499188,
+    "lon": -82.4861181,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "700, North Armenia Avenue, Tampa, FL, 33606",
+    "website": "https://armorygardens.org/vila-brothers-park",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "700",
+      "addr:postcode": "33606",
+      "addr:state": "FL",
+      "addr:street": "North Armenia Avenue",
+      "ele": "6",
+      "gnis:feature_id": "293110",
+      "leisure": "park",
+      "name": "Vila Brothers Park",
+      "old_name": "West Pines Park",
+      "operator": "Armory Gardens Civic Association",
+      "website": "https://armorygardens.org/vila-brothers-park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_42389680",
+    "name": "Seminole Heights Garden Center",
+    "city": "Tampa",
+    "lat": 28.0001589,
+    "lon": -82.455991,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "5800, North Central Avenue",
+    "website": "https://www.tampa.gov/parks-and-recreation/rental-facilities/seminole-garden-center",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:housenumber": "5800",
+      "addr:street": "North Central Avenue",
+      "contact:email": "SeminoleGardenCenter@tampagov.net",
+      "leisure": "park",
+      "name": "Seminole Heights Garden Center",
+      "website": "https://www.tampa.gov/parks-and-recreation/rental-facilities/seminole-garden-center"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_43097398",
+    "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+    "city": "Tampa",
+    "lat": 28.0634958,
+    "lon": -82.4155503,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "3821, USF Holly Drive, Tampa, FL, 33620",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "3821",
+      "addr:postcode": "33620",
+      "addr:state": "FL",
+      "addr:street": "USF Holly Drive",
+      "building": "yes",
+      "ele": "13",
+      "gnis:feature_id": "2481331",
+      "height": "10",
+      "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+      "short_name": "CAM",
+      "source": "USGS Geonames",
+      "tourism": "museum"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_44395274",
+    "name": "USF Botanical Garden",
+    "city": "Tampa",
+    "lat": 28.0597724,
+    "lon": -82.4244214,
+    "category": "garden",
+    "subcategories": [
+      "leisure:garden"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "barrier": "fence",
+      "leisure": "garden",
+      "name": "USF Botanical Garden"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_48207237",
+    "name": "MLK Plaza",
+    "city": "Tampa",
+    "lat": 28.0625685,
+    "lon": -82.4148012,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "MLK Plaza",
+      "shade": "trees"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_52035847",
+    "name": "Tampa Bay History Center",
+    "city": "Tampa",
+    "lat": 27.9422446,
+    "lon": -82.4499013,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "801, Water Street, Tampa, FL, 33602",
+    "website": "https://tampabayhistorycenter.org/",
+    "phone": "+1-813 228 0097",
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "801",
+      "addr:postcode": "33602",
+      "addr:state": "FL",
+      "addr:street": "Water Street",
+      "building": "yes",
+      "check_date:opening_hours": "2025-02-14",
+      "email": "info@tampabayhistorycenter.org",
+      "fee": "yes",
+      "fee:conditional": "no @ age < 7",
+      "height": "30.58",
+      "name": "Tampa Bay History Center",
+      "opening_hours": "Mo-Su 10:00-17:00; Nov Th[4] off; Dec 25 off; Dec 24, Dec 31 10:00-15:00",
+      "opening_hours:url": "https://tampabayhistorycenter.org/contact/",
+      "phone": "+1-813 228 0097",
+      "tourism": "museum",
+      "website": "https://tampabayhistorycenter.org/",
+      "wheelchair": "yes",
+      "wikidata": "Q14686435"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_53424915",
+    "name": "Freedom Park",
+    "city": "Tampa",
+    "lat": 27.9784755,
+    "lon": -82.4721965,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Freedom Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_62367695",
+    "name": "Gadsden Park",
+    "city": "Tampa",
+    "lat": 27.8663202,
+    "lon": -82.4982673,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Gadsden Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_69497028",
+    "name": "Takomah Trail Park",
+    "city": "Tampa",
+    "lat": 28.0417556,
+    "lon": -82.4014637,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Takomah Trail Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_79514363",
+    "name": "Alan Wright Park",
+    "city": "Tampa",
+    "lat": 28.0162493,
+    "lon": -82.4441059,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Alan Wright Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_84269089",
+    "name": "Al Lopez Park",
+    "city": "Tampa",
+    "lat": 27.9886743,
+    "lon": -82.503114,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "4810, North Himes Avenue, Tampa, FL, 33614",
+    "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/al-lopez",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "4810",
+      "addr:postcode": "33614",
+      "addr:state": "FL",
+      "addr:street": "North Himes Avenue",
+      "leisure": "park",
+      "name": "Al Lopez Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Tampa Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/al-lopez",
+      "wikidata": "Q34808080"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_84334621",
+    "name": "Cypress Point Park",
+    "city": "Tampa",
+    "lat": 27.9512152,
+    "lon": -82.5416129,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "5620, West Cypress Street, Tampa, FL, 33607",
+    "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/cypress-point-park",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "5620",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "West Cypress Street",
+      "leisure": "park",
+      "name": "Cypress Point Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Tampa Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/cypress-point-park",
+      "wikidata": "Q49481578"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_84892145",
+    "name": "Cypress Creek",
+    "city": "Tampa",
+    "lat": 28.142368,
+    "lon": -82.4008248,
+    "category": "nature_reserve",
+    "subcategories": [
+      "leisure:nature_reserve"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Cypress Creek"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_84968975",
+    "name": "Oakridge",
+    "city": "Tampa",
+    "lat": 28.1460815,
+    "lon": -82.2662618,
+    "category": "nature_reserve",
+    "subcategories": [
+      "leisure:nature_reserve"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Oakridge"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_94255749",
+    "name": "22nd Street Park",
+    "city": "Tampa",
+    "lat": 28.0197791,
+    "lon": -82.4362411,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "22nd Street Park",
+      "wikidata": "Q34804916"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_94276794",
+    "name": "Rowlett Park",
+    "city": "Tampa",
+    "lat": 28.0255795,
+    "lon": -82.4319164,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Rowlett Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_98831443",
+    "name": "Ragan Park",
+    "city": "Tampa",
+    "lat": 27.9787295,
+    "lon": -82.4456332,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Ragan Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_99428900",
+    "name": "MacDugal Park",
+    "city": "Tampa",
+    "lat": 28.0097207,
+    "lon": -82.4461039,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "MacDugal Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_99652087",
+    "name": "Renaissance Fairground",
+    "city": "Tampa",
+    "lat": 28.0517584,
+    "lon": -82.4085009,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "barrier": "fence",
+      "name": "Renaissance Fairground",
+      "tourism": "theme_park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_107769981",
+    "name": "Tampa Fire Fighters Museum",
+    "city": "Tampa",
+    "lat": 27.9514908,
+    "lon": -82.4550605,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": null,
+    "website": "https://tampafirefightersmuseum.org/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "check_date:opening_hours": "2023-03-13",
+      "height": "13.38",
+      "name": "Tampa Fire Fighters Museum",
+      "opening_hours": "Mo-Fr 10:00-14:00",
+      "tourism": "museum",
+      "website": "https://tampafirefightersmuseum.org/"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_110897264",
+    "name": "Rivercrest Park",
+    "city": "Tampa",
+    "lat": 27.9888205,
+    "lon": -82.4675955,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": "https://www.tampa.gov/parks-and-recreation/programs/parks-and-facilities/greenways-and-trails/trail-maps/rivercrest",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "289735",
+      "leisure": "park",
+      "name": "Rivercrest Park",
+      "website": "https://www.tampa.gov/parks-and-recreation/programs/parks-and-facilities/greenways-and-trails/trail-maps/rivercrest"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_112461926",
+    "name": "Hutchinson House",
+    "city": "Tampa",
+    "lat": 27.9413173,
+    "lon": -82.4625386,
+    "category": "historic_building",
+    "subcategories": [
+      "historic:building"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "historic": "building",
+      "name": "Hutchinson House",
+      "wikidata": "Q5950686"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_112686571",
+    "name": "Anderson-Frank House",
+    "city": "Tampa",
+    "lat": 27.9396787,
+    "lon": -82.4631584,
+    "category": "historic_building",
+    "subcategories": [
+      "historic:building"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "historic": "building",
+      "name": "Anderson-Frank House",
+      "wikidata": "Q4754011"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_113621181",
+    "name": "Snow Park",
+    "city": "Tampa",
+    "lat": 27.9446925,
+    "lon": -82.4658661,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Snow Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_114697059",
+    "name": "Giddens Park",
+    "city": "Tampa",
+    "lat": 27.9947283,
+    "lon": -82.4478597,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Giddens Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_115421065",
+    "name": "Fair Oaks Park",
+    "city": "Tampa",
+    "lat": 27.9919451,
+    "lon": -82.4213995,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Fair Oaks Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_115433531",
+    "name": "Calvin Taylor Park",
+    "city": "Tampa",
+    "lat": 27.9788117,
+    "lon": -82.4655972,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": "+1-813-274-8364",
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Calvin Taylor Park",
+      "phone": "+1-813-274-8364"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147475",
+    "name": "Montu",
+    "city": "Tampa",
+    "lat": 28.0343606,
+    "lon": -82.4175724,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Montu",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147477",
+    "name": "Montu",
+    "city": "Tampa",
+    "lat": 28.0348046,
+    "lon": -82.4174114,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Montu",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147479",
+    "name": "Sheikra",
+    "city": "Tampa",
+    "lat": 28.036581,
+    "lon": -82.4247082,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Sheikra",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147481",
+    "name": "Montu",
+    "city": "Tampa",
+    "lat": 28.0346111,
+    "lon": -82.4174826,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Montu",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147482",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.039555,
+    "lon": -82.4227388,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_117147484",
+    "name": "Montu",
+    "city": "Tampa",
+    "lat": 28.034926,
+    "lon": -82.417455,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Montu",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_130895874",
+    "name": "David E. West Park",
+    "city": "Tampa",
+    "lat": 28.0384734,
+    "lon": -82.4330913,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "David E. West Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_130896223",
+    "name": "Forest Hills Park",
+    "city": "Tampa",
+    "lat": 28.0463779,
+    "lon": -82.4645887,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Forest Hills Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_141673825",
+    "name": "Patterson Street Park",
+    "city": "Tampa",
+    "lat": 28.0177398,
+    "lon": -82.447932,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Patterson Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_143105402",
+    "name": "Julian B. Lane Riverfront Park",
+    "city": "Tampa",
+    "lat": 27.9537252,
+    "lon": -82.4668752,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1001, North Boulevard, Tampa, FL, 33607",
+    "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/riverfrontpark",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "1001",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "North Boulevard",
+      "leisure": "park",
+      "name": "Julian B. Lane Riverfront Park",
+      "opening_hours": "07:00-22:00",
+      "operator": "City of Tampa",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/riverfrontpark"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_144843917",
+    "name": "Riverside Park",
+    "city": "Tampa",
+    "lat": 27.9718169,
+    "lon": -82.4785042,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "6",
+      "gnis:feature_id": "289748",
+      "leisure": "park",
+      "name": "Riverside Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_144845123",
+    "name": "Ignacio Haya Linear Park",
+    "city": "Tampa",
+    "lat": 27.993651,
+    "lon": -82.4651491,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": "https://www.tampa.gov/contract-administration/construction-bids/20-c-00012-ignacio-haya-park-living-shoreline",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Ignacio Haya Linear Park",
+      "website": "https://www.tampa.gov/contract-administration/construction-bids/20-c-00012-ignacio-haya-park-living-shoreline"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_145524242",
+    "name": "Skyway Park",
+    "city": "Tampa",
+    "lat": 27.9751684,
+    "lon": -82.5488447,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Skyway Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_147861736",
+    "name": "Fred Ball Park",
+    "city": "Tampa",
+    "lat": 27.9221858,
+    "lon": -82.4886836,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Fred Ball Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_151948823",
+    "name": "Henry & Ola Park",
+    "city": "Tampa",
+    "lat": 27.9990526,
+    "lon": -82.4660445,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Henry & Ola Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_166075699",
+    "name": "Woodland Terrace Park",
+    "city": "Tampa",
+    "lat": 28.0060435,
+    "lon": -82.4254733,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Woodland Terrace Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_172645009",
+    "name": "SS American Victory;American Victory Museum",
+    "city": "Tampa",
+    "lat": 27.9436838,
+    "lon": -82.4441252,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum",
+      "historic:ship"
+    ],
+    "address": "705, Channelside Drive, Tampa, FL, 33602",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "705",
+      "addr:postcode": "33602",
+      "addr:state": "FL",
+      "addr:street": "Channelside Drive",
+      "building": "ship",
+      "historic": "ship",
+      "name": "SS American Victory;American Victory Museum",
+      "ref:nrhp": "01001533",
+      "ship:type": "liberty_ship",
+      "source": "Victory Ship Inc.;Victory SHip Inc.",
+      "tourism": "museum",
+      "wikidata": "Q7393152",
+      "wikipedia": "en:SS American Victory"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_174786516",
+    "name": "Pirate Ship",
+    "city": "Tampa",
+    "lat": 27.9768172,
+    "lon": -82.5031638,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "man_made": "ship",
+      "name": "Pirate Ship",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_183602558",
+    "name": "Park Circle Park",
+    "city": "Tampa",
+    "lat": 28.0175533,
+    "lon": -82.4464191,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Park Circle Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_183604051",
+    "name": "River Tower Park",
+    "city": "Tampa",
+    "lat": 28.0215385,
+    "lon": -82.4575526,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "River Tower Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_190127200",
+    "name": "Tampa Waterworks Park",
+    "city": "Tampa",
+    "lat": 27.9588283,
+    "lon": -82.4630706,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1710, North Highland Avenue, Tampa, FL",
+    "website": "https://apps.tampagov.net/park_finder_webapp/parkdetail.aspx?parkid=148",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1710",
+      "addr:state": "FL",
+      "addr:street": "North Highland Avenue",
+      "leisure": "park",
+      "name": "Tampa Waterworks Park",
+      "website": "https://apps.tampagov.net/park_finder_webapp/parkdetail.aspx?parkid=148"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_190305421",
+    "name": "Lowry Park",
+    "city": "Tampa",
+    "lat": 28.0144839,
+    "lon": -82.4660852,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Lowry Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_211019250",
+    "name": "A.J. Palonis Jr. Park",
+    "city": "Tampa",
+    "lat": 27.8921306,
+    "lon": -82.5408434,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "image": "http://www.flickr.com/photos/colemanm/8586733508",
+      "landuse": "recreation_ground",
+      "leisure": "park",
+      "name": "A.J. Palonis Jr. Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_211056083",
+    "name": "Ballast Point Park",
+    "city": "Tampa",
+    "lat": 27.8892124,
+    "lon": -82.4806741,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "5300, Interbay Boulevard, Tampa, FL, 33611",
+    "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/ballast-point",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "5300",
+      "addr:postcode": "33611",
+      "addr:state": "FL",
+      "addr:street": "Interbay Boulevard",
+      "ele": "1",
+      "gnis:feature_id": "278068",
+      "leisure": "park",
+      "name": "Ballast Point Park",
+      "opening_hours": "06:00-20:00",
+      "operator": "Tampa Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/ballast-point",
+      "wikidata": "Q15196307"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_211153135",
+    "name": "Stingray Bay",
+    "city": "Tampa",
+    "lat": 28.0128165,
+    "lon": -82.4710712,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Stingray Bay",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_211158660",
+    "name": "ZooTampa at Lowry Park",
+    "city": "Tampa",
+    "lat": 28.0139772,
+    "lon": -82.469928,
+    "category": "zoo",
+    "subcategories": [
+      "tourism:zoo"
+    ],
+    "address": "1101, West Sligh Avenue, Tampa, FL, 33767",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1101",
+      "addr:postcode": "33767",
+      "addr:state": "FL",
+      "addr:street": "West Sligh Avenue",
+      "name": "ZooTampa at Lowry Park",
+      "tourism": "zoo"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212390514",
+    "name": "Asian Gardens",
+    "city": "Tampa",
+    "lat": 28.0131181,
+    "lon": -82.47044,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Asian Gardens",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212390517",
+    "name": "Primate World",
+    "city": "Tampa",
+    "lat": 28.013805,
+    "lon": -82.4706617,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Primate World",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212390520",
+    "name": "Free-Flight Aviary",
+    "city": "Tampa",
+    "lat": 28.0139014,
+    "lon": -82.47003,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Free-Flight Aviary",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212392947",
+    "name": "Wallaroo Station Children's Zoo",
+    "city": "Tampa",
+    "lat": 28.0145966,
+    "lon": -82.4697352,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Wallaroo Station Children's Zoo",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212395202",
+    "name": "Safari Africa",
+    "city": "Tampa",
+    "lat": 28.0158965,
+    "lon": -82.4700276,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Safari Africa",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212395203",
+    "name": "Manatee & Aquatic Center",
+    "city": "Tampa",
+    "lat": 28.012948,
+    "lon": -82.471241,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Manatee & Aquatic Center",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212471316",
+    "name": "Manatee Hospital",
+    "city": "Tampa",
+    "lat": 28.012953,
+    "lon": -82.4717304,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Manatee Hospital",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_212472225",
+    "name": "Florida Boardwalk & Wildlife Center",
+    "city": "Tampa",
+    "lat": 28.0140325,
+    "lon": -82.4711861,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Florida Boardwalk & Wildlife Center",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_218731067",
+    "name": "West Tampa Little League",
+    "city": "Tampa",
+    "lat": 27.9603587,
+    "lon": -82.495242,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "West Tampa Little League"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_218731086",
+    "name": "MacFarlane Park",
+    "city": "Tampa",
+    "lat": 27.9579685,
+    "lon": -82.4952916,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1700, Dale Mabry Highway, Tampa, FL, 33607",
+    "website": "https://www.tampa.gov/document/macfarlane-park-15546",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "1700",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "Dale Mabry Highway",
+      "leisure": "park",
+      "name": "MacFarlane Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Tampa Parks and Recreation Department",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/document/macfarlane-park-15546",
+      "wikidata": "Q49520441"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_218731319",
+    "name": "Riverside Garden Park",
+    "city": "Tampa",
+    "lat": 27.9680241,
+    "lon": -82.4783973,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Riverside Garden Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_229318109",
+    "name": "Orange Grove Park",
+    "city": "Tampa",
+    "lat": 28.0367878,
+    "lon": -82.4861957,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Orange Grove Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_263522744",
+    "name": "Gwazi Field",
+    "city": "Tampa",
+    "lat": 28.0349746,
+    "lon": -82.4246522,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Gwazi Field",
+      "wikidata": "Q966471"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_264822783",
+    "name": "Monument Park",
+    "city": "Tampa",
+    "lat": 27.9791899,
+    "lon": -82.5075731,
+    "category": "garden",
+    "subcategories": [
+      "leisure:garden"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "garden",
+      "name": "Monument Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_275282966",
+    "name": "Phillips Park",
+    "city": "Tampa",
+    "lat": 27.9671091,
+    "lon": -82.4692,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Phillips Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_287655498",
+    "name": "Busch Gardens Tampa",
+    "city": "Tampa",
+    "lat": 28.0381069,
+    "lon": -82.4212596,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park"
+    ],
+    "address": "North McKinley Drive, Tampa, FL, 33612",
+    "website": "https://buschgardens.com/tampa/",
+    "phone": "+1-813-884-4386",
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housename": "10165",
+      "addr:postcode": "33612",
+      "addr:state": "FL",
+      "addr:street": "North McKinley Drive",
+      "alt_name": "Busch Gardens",
+      "name": "Busch Gardens Tampa",
+      "operator": "United Parks & Resorts",
+      "phone": "+1-813-884-4386",
+      "tourism": "theme_park",
+      "website": "https://buschgardens.com/tampa/",
+      "wheelchair": "yes",
+      "wikidata": "Q2743812",
+      "wikipedia": "en:Busch Gardens Tampa Bay"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_287681249",
+    "name": "Adventure Island",
+    "city": "Tampa",
+    "lat": 28.041912,
+    "lon": -82.4131039,
+    "category": "theme_park",
+    "subcategories": [
+      "tourism:theme_park",
+      "leisure:water_park"
+    ],
+    "address": "10001, North McKinley Drive, Tampa, FL, 33612",
+    "website": "https://adventureisland.com/",
+    "phone": "+1-888-800-5447",
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "10001",
+      "addr:postcode": "33612",
+      "addr:state": "FL",
+      "addr:street": "North McKinley Drive",
+      "leisure": "water_park",
+      "name": "Adventure Island",
+      "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 10:00-18:00",
+      "operator": "United Parks & Resorts",
+      "phone": "+1-888-800-5447",
+      "tourism": "theme_park",
+      "website": "https://adventureisland.com/",
+      "wikidata": "Q379952"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_314933066",
+    "name": "Washington Street Park",
+    "city": "Tampa",
+    "lat": 27.9484,
+    "lon": -82.4469806,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Washington Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_333785161",
+    "name": "El Centro Español de Tampa",
+    "city": "Tampa",
+    "lat": 27.960636,
+    "lon": -82.4419438,
+    "category": "historic_building",
+    "subcategories": [
+      "historic:building"
+    ],
+    "address": "1526-1536, East 7th Avenue, Tampa, FL",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "1526-1536",
+      "addr:state": "FL",
+      "addr:street": "East 7th Avenue",
+      "building": "yes",
+      "building:levels": "2",
+      "height": "9",
+      "historic": "building",
+      "image": "https://commons.wikimedia.org/wiki/File:Centro_Espa%C3%B1ol_de_Tampa.jpg",
+      "layer": "1",
+      "name": "El Centro Español de Tampa",
+      "source:geometry": "Bing",
+      "wikidata": "Q5350980",
+      "wikipedia": "en:El Centro Español de Tampa"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_359647831",
+    "name": "USF Student Memorial",
+    "city": "Tampa",
+    "lat": 28.0651882,
+    "lon": -82.4129215,
+    "category": "historic_monument",
+    "subcategories": [
+      "historic:monument"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "monument",
+      "name": "USF Student Memorial"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_364381654",
+    "name": "MacDill 48",
+    "city": "Tampa",
+    "lat": 27.8736964,
+    "lon": -82.4974424,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "landuse": "forest",
+      "leisure": "park",
+      "name": "MacDill 48"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_364580058",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0402195,
+    "lon": -82.4229411,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_364580059",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0394646,
+    "lon": -82.4239935,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_364580060",
+    "name": "Congo River Rapids",
+    "city": "Tampa",
+    "lat": 28.0400646,
+    "lon": -82.4239304,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "roof",
+      "name": "Congo River Rapids",
+      "ref": "37",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_365184641",
+    "name": "Cheetah Hunt",
+    "city": "Tampa",
+    "lat": 28.0359229,
+    "lon": -82.4204487,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cheetah Hunt",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_436806215",
+    "name": "The Meadows",
+    "city": "Tampa",
+    "lat": 28.0668304,
+    "lon": -82.4032144,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "park",
+      "name": "The Meadows"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469228928",
+    "name": "C. Broughton Williams Park",
+    "city": "Tampa",
+    "lat": 27.9471687,
+    "lon": -82.5153257,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "309, North Hubert Avenue, Tampa, FL, 33609",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "309",
+      "addr:postcode": "33609",
+      "addr:state": "FL",
+      "addr:street": "North Hubert Avenue",
+      "leisure": "park",
+      "name": "C. Broughton Williams Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469595661",
+    "name": "Bobby Hicks Park",
+    "city": "Tampa",
+    "lat": 27.8773265,
+    "lon": -82.5165511,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "4201, W Mango Ave, Tampa, FL, 33616",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "4201",
+      "addr:postcode": "33616",
+      "addr:state": "FL",
+      "addr:street": "W Mango Ave",
+      "description": "This is the open area located next to the Hobby Hicks Pool, this quiet park has a couple benches but most importantly a wooden pier that overlooks the lake.",
+      "leisure": "park",
+      "name": "Bobby Hicks Park",
+      "wikidata": "Q34854377"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469597208",
+    "name": "Picnic Island Park",
+    "city": "Tampa",
+    "lat": 27.852777,
+    "lon": -82.5521441,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "7409, Picnic Island Boulevard, Tampa, FL, 33616",
+    "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/picnic-island-park",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "7409",
+      "addr:postcode": "33616",
+      "addr:state": "FL",
+      "addr:street": "Picnic Island Boulevard",
+      "description": "This park is a hidden gem in Tampa, very well known among the locals. This park offers Kid's Playgrounds, Dog Beach Area, Boat Ramp, Party Cabanas, Public Restrooms and water fountains.",
+      "leisure": "park",
+      "name": "Picnic Island Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Tampa Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation/featured-parks/picnic-island-park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469607364",
+    "name": "Picnic Island Beach",
+    "city": "Tampa",
+    "lat": 27.8478481,
+    "lon": -82.5527453,
+    "category": "beach",
+    "subcategories": [
+      "natural:beach"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Picnic Island Beach",
+      "natural": "beach"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469607367",
+    "name": "Picnic Island Beach",
+    "city": "Tampa",
+    "lat": 27.8494198,
+    "lon": -82.5518805,
+    "category": "beach",
+    "subcategories": [
+      "natural:beach"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Picnic Island Beach",
+      "natural": "beach"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469610348",
+    "name": "Picnic Island Beach",
+    "city": "Tampa",
+    "lat": 27.8528177,
+    "lon": -82.5531337,
+    "category": "beach",
+    "subcategories": [
+      "natural:beach"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Picnic Island Beach",
+      "natural": "beach",
+      "surface": "sand"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469617508",
+    "name": "Skyview Park",
+    "city": "Tampa",
+    "lat": 27.8771078,
+    "lon": -82.495558,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "6203, South Martindale Avenue, Tampa, FL, 33611",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "6203",
+      "addr:postcode": "33611",
+      "addr:state": "FL",
+      "addr:street": "South Martindale Avenue",
+      "leisure": "park",
+      "name": "Skyview Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469618168",
+    "name": "Spanish American War Memorial Park",
+    "city": "Tampa",
+    "lat": 27.8666545,
+    "lon": -82.5265443,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Spanish American War Memorial Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469619123",
+    "name": "Palma Ceia Lions Park",
+    "city": "Tampa",
+    "lat": 27.8879504,
+    "lon": -82.5217603,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "4525, W Pearl Ave, Tampa, FL, 33611",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "4525",
+      "addr:postcode": "33611",
+      "addr:state": "FL",
+      "addr:street": "W Pearl Ave",
+      "leisure": "park",
+      "name": "Palma Ceia Lions Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469619485",
+    "name": "Foster Park",
+    "city": "Tampa",
+    "lat": 27.8959493,
+    "lon": -82.5113148,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Foster Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469620085",
+    "name": "Corona Park",
+    "city": "Tampa",
+    "lat": 27.9139281,
+    "lon": -82.5045233,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "3702, W Corona St, Tampa, FL, 33629",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "3702",
+      "addr:postcode": "33629",
+      "addr:state": "FL",
+      "addr:street": "W Corona St",
+      "leisure": "park",
+      "name": "Corona Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_469631195",
+    "name": "Hyde Park",
+    "city": "Tampa",
+    "lat": 27.9362096,
+    "lon": -82.4799183,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "park",
+      "name": "Hyde Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_479744226",
+    "name": "Sycamore Forest",
+    "city": "Tampa",
+    "lat": 28.064911,
+    "lon": -82.4053938,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "recreation_ground",
+      "leaf_cycle": "evergreen",
+      "leisure": "park",
+      "name": "Sycamore Forest"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_486600707",
+    "name": "Simmons Park",
+    "city": "Tampa",
+    "lat": 28.06185,
+    "lon": -82.4179341,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Simmons Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_522984801",
+    "name": "The Peninsularium",
+    "city": "Tampa",
+    "lat": 27.9791256,
+    "lon": -82.4517137,
+    "category": "arts_centre",
+    "subcategories": [
+      "amenity:arts_centre"
+    ],
+    "address": "3800, North Nebraska Avenue, Tampa, FL, 33603",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "3800",
+      "addr:postcode": "33603",
+      "addr:state": "FL",
+      "addr:street": "North Nebraska Avenue",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "height": "16.03",
+      "name": "The Peninsularium"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_523423509",
+    "name": "Trilogy",
+    "city": "Tampa",
+    "lat": 27.9402947,
+    "lon": -82.4960083,
+    "category": "historic_castle",
+    "subcategories": [
+      "historic:castle"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "access": "private",
+      "building": "yes",
+      "castle_type": "stately",
+      "height": "19.28",
+      "historic": "castle",
+      "name": "Trilogy",
+      "start_date": "2020/08/06"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524038828",
+    "name": "Ubanga-Banga Bumper Cars",
+    "city": "Tampa",
+    "lat": 28.0389891,
+    "lon": -82.4234953,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "height": "18.86",
+      "name": "Ubanga-Banga Bumper Cars",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524038840",
+    "name": "Iron Gwazi",
+    "city": "Tampa",
+    "lat": 28.0339842,
+    "lon": -82.4230853,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": "https://buschgardens.com/tampa/roller-coasters/iron-gwazi/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "attraction": "roller_coaster",
+      "building": "yes",
+      "height": "17.75",
+      "name": "Iron Gwazi",
+      "roller_coaster": "station",
+      "tourism": "attraction",
+      "website": "https://buschgardens.com/tampa/roller-coasters/iron-gwazi/"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524228607",
+    "name": "Grant Park",
+    "city": "Tampa",
+    "lat": 27.9785244,
+    "lon": -82.395696,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "15",
+      "gnis:feature_id": "283284",
+      "leisure": "park",
+      "name": "Grant Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524527008",
+    "name": "The Bunker",
+    "city": "Tampa",
+    "lat": 27.9613316,
+    "lon": -82.4378054,
+    "category": "historic_building",
+    "subcategories": [
+      "historic:building"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "height": "10.6",
+      "historic": "building",
+      "name": "The Bunker"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524527015",
+    "name": "Tampa Baseball Museum",
+    "city": "Tampa",
+    "lat": 27.9619946,
+    "lon": -82.4377933,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "height": "11.37",
+      "name": "Tampa Baseball Museum",
+      "tourism": "museum"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_524527203",
+    "name": "Columbia Centennial Museum",
+    "city": "Tampa",
+    "lat": 27.960054,
+    "lon": -82.4357007,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "building:levels": "2",
+      "height": "13.1",
+      "name": "Columbia Centennial Museum",
+      "tourism": "museum"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_551172912",
+    "name": "SOCOM Memorial",
+    "city": "Tampa",
+    "lat": 27.8568436,
+    "lon": -82.4875713,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "name": "SOCOM Memorial"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_551172913",
+    "name": "Lewis Lake",
+    "city": "Tampa",
+    "lat": 27.8341137,
+    "lon": -82.4841397,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Lewis Lake"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_559631991",
+    "name": "MOSI Molecular Structure",
+    "city": "Tampa",
+    "lat": 28.0541093,
+    "lon": -82.4050357,
+    "category": "historic_monument",
+    "subcategories": [
+      "historic:monument"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "monument",
+      "landuse": "recreation_ground",
+      "name": "MOSI Molecular Structure"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352485",
+    "name": "USF Arts Mall",
+    "city": "Tampa",
+    "lat": 28.0636119,
+    "lon": -82.4152074,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "USF Arts Mall"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352486",
+    "name": "USF Contemplation Garden",
+    "city": "Tampa",
+    "lat": 28.0649132,
+    "lon": -82.4134309,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "USF Contemplation Garden"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352492",
+    "name": "Castor Beach",
+    "city": "Tampa",
+    "lat": 28.0632327,
+    "lon": -82.411091,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Castor Beach"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352497",
+    "name": "Greek Village",
+    "city": "Tampa",
+    "lat": 28.0672527,
+    "lon": -82.4063833,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "park",
+      "name": "Greek Village"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352500",
+    "name": "USF NPHC Plaza",
+    "city": "Tampa",
+    "lat": 28.0658131,
+    "lon": -82.4137962,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "USF NPHC Plaza"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_583352505",
+    "name": "Solar Awesomeness",
+    "city": "Tampa",
+    "lat": 28.0606441,
+    "lon": -82.4100947,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Solar Awesomeness"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_587962338",
+    "name": "U.S. Central Command Memorial",
+    "city": "Tampa",
+    "lat": 27.863666,
+    "lon": -82.4922658,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "name": "U.S. Central Command Memorial"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_616127932",
+    "name": "Air Grover",
+    "city": "Tampa",
+    "lat": 28.0346066,
+    "lon": -82.4253128,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Air Grover",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_616177057",
+    "name": "Stanleyville Falls",
+    "city": "Tampa",
+    "lat": 28.0377917,
+    "lon": -82.4240872,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Stanleyville Falls",
+      "roller_coaster": "water_track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_619197401",
+    "name": "Kangaroo Petting zoo",
+    "city": "Tampa",
+    "lat": 28.0329907,
+    "lon": -82.4257582,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kangaroo Petting zoo",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_619441296",
+    "name": "Hippopotamus",
+    "city": "Tampa",
+    "lat": 28.0352156,
+    "lon": -82.4203471,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Hippopotamus",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_622455460",
+    "name": "Oakwood Village Community Clubhouse",
+    "city": "Tampa",
+    "lat": 28.1648568,
+    "lon": -82.3670708,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Oakwood Village Community Clubhouse"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_626671864",
+    "name": "Harbour Isles Park",
+    "city": "Tampa",
+    "lat": 27.9383725,
+    "lon": -82.4483881,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Harbour Isles Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_626672279",
+    "name": "Garrison Channel Park",
+    "city": "Tampa",
+    "lat": 27.9404024,
+    "lon": -82.4497202,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Garrison Channel Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_632232329",
+    "name": "Forest Hills Dog Walk Loop",
+    "city": "Tampa",
+    "lat": 28.0373121,
+    "lon": -82.4740817,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Forest Hills Dog Walk Loop"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_632238489",
+    "name": "Perio & Albany Park",
+    "city": "Tampa",
+    "lat": 28.0359582,
+    "lon": -82.4810419,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Perio & Albany Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_632599487",
+    "name": "Purity Springs Park",
+    "city": "Tampa",
+    "lat": 28.0218231,
+    "lon": -82.4622571,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "8126, North River Shore Drive, Tampa, FL, 33604",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "8126",
+      "addr:postcode": "33604",
+      "addr:state": "FL",
+      "addr:street": "North River Shore Drive",
+      "description": "Purity Springs is a 1.15-acre park with plenty of benches and picnic tables alongside the Hillsborough River. Take in the scenery, quietness and enjoy a picnic with the family!",
+      "leisure": "park",
+      "name": "Purity Springs Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_651204424",
+    "name": "Sheikra",
+    "city": "Tampa",
+    "lat": 28.0366574,
+    "lon": -82.4245674,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Sheikra",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_651204425",
+    "name": "Sheikra",
+    "city": "Tampa",
+    "lat": 28.0366108,
+    "lon": -82.4251431,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Sheikra",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_656050723",
+    "name": "Cheetah Hunt",
+    "city": "Tampa",
+    "lat": 28.0340121,
+    "lon": -82.4202546,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cheetah Hunt",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_656050724",
+    "name": "Cheetah Hunt",
+    "city": "Tampa",
+    "lat": 28.0354995,
+    "lon": -82.4204208,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cheetah Hunt",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_656573179",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0400856,
+    "lon": -82.423065,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_657717218",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0397998,
+    "lon": -82.4230948,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_657717219",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0396918,
+    "lon": -82.4236288,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_659388722",
+    "name": "Epps Park",
+    "city": "Tampa",
+    "lat": 28.0060731,
+    "lon": -82.4662616,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "305, West Fern Street, Tampa, FL, 33604",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "305",
+      "addr:postcode": "33604",
+      "addr:state": "FL",
+      "addr:street": "West Fern Street",
+      "description": "Linear Park banking the Hillsborough River, managed by the Tampa Parks and Recreation Department. ",
+      "leisure": "park",
+      "name": "Epps Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_661037986",
+    "name": "José Martí Friends Park",
+    "city": "Tampa",
+    "lat": 27.9607806,
+    "lon": -82.4452955,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "East 8th Avenue, Ybor",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Ybor",
+      "addr:street": "East 8th Avenue",
+      "leisure": "park",
+      "name": "José Martí Friends Park",
+      "name:es": "Parque Amigos de José Martí",
+      "opening_hours": "Mo-Fr 08:00-13:30",
+      "operator": "Departamento de Parques de Tampa",
+      "start_date": "1960-02"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_717373278",
+    "name": "Lincoln Gardens Park",
+    "city": "Tampa",
+    "lat": 27.9617613,
+    "lon": -82.5102224,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "4007, West Palmetto Street, Tampa, FL, 33609",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "4007",
+      "addr:postcode": "33609",
+      "addr:state": "FL",
+      "addr:street": "West Palmetto Street",
+      "leisure": "park",
+      "name": "Lincoln Gardens Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_732761067",
+    "name": "Loretta Ingraham Park",
+    "city": "Tampa",
+    "lat": 27.957264,
+    "lon": -82.5150716,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1615, North Hubert Avenue, Tampa, FL, 33607",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "1615",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "North Hubert Avenue",
+      "leisure": "park",
+      "name": "Loretta Ingraham Park",
+      "operator": "City of Tampa",
+      "operator:type": "public"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_742640590",
+    "name": "Jim Walters Park",
+    "city": "Tampa",
+    "lat": 27.9565028,
+    "lon": -82.5104396,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "1508, North Clark Avenue, Tampa, FL, 33607",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "1508",
+      "addr:postcode": "33607",
+      "addr:state": "FL",
+      "addr:street": "North Clark Avenue",
+      "leisure": "park",
+      "name": "Jim Walters Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_788028753",
+    "name": "Southwest Port Tampa Park",
+    "city": "Tampa",
+    "lat": 27.8571143,
+    "lon": -82.534257,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Southwest Port Tampa Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_788032389",
+    "name": "Swann Park",
+    "city": "Tampa",
+    "lat": 27.9376803,
+    "lon": -82.5200894,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "1",
+      "gnis:feature_id": "291926",
+      "leisure": "park",
+      "name": "Swann Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_838853573",
+    "name": "City of Tampa Park",
+    "city": "Tampa",
+    "lat": 28.1591173,
+    "lon": -82.3021969,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "City of Tampa Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_890853495",
+    "name": "Diamondback Nature Preserve",
+    "city": "Tampa",
+    "lat": 27.9476366,
+    "lon": -82.5408027,
+    "category": "nature_reserve",
+    "subcategories": [
+      "leisure:nature_reserve"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Diamondback Nature Preserve",
+      "note": "approx. location based on Hillsbourough County Property Appraiser website",
+      "opening_hours": "sunrise-sunset",
+      "owner": "Hillsborough County"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_905636016",
+    "name": "Curtis Hixon Waterfront Park",
+    "city": "Tampa",
+    "lat": 27.9489569,
+    "lon": -82.4622385,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "600, North Ashley Drive, Tampa, FL, 33602",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "600",
+      "addr:postcode": "33602",
+      "addr:state": "FL",
+      "addr:street": "North Ashley Drive",
+      "leisure": "park",
+      "name": "Curtis Hixon Waterfront Park",
+      "wikidata": "Q5195767",
+      "wikipedia": "en:Curtis Hixon Waterfront Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906203996",
+    "name": "Kiley Gardens",
+    "city": "Tampa",
+    "lat": 27.947909,
+    "lon": -82.4610345,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Kiley Gardens"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906263885",
+    "name": "MacDill Park on the Riverwalk",
+    "city": "Tampa",
+    "lat": 27.9452585,
+    "lon": -82.4588327,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "MacDill Park on the Riverwalk"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906263893",
+    "name": "Joseph Frye Park",
+    "city": "Tampa",
+    "lat": 27.943003,
+    "lon": -82.4582681,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Joseph Frye Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906263912",
+    "name": "USF Park on the Riverwalk",
+    "city": "Tampa",
+    "lat": 27.9422635,
+    "lon": -82.4579216,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "USF Park on the Riverwalk"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906558994",
+    "name": "Ceremonial Space",
+    "city": "Tampa",
+    "lat": 27.9417512,
+    "lon": -82.4502564,
+    "category": "historic_monument",
+    "subcategories": [
+      "historic:monument"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "monument",
+      "name": "Ceremonial Space"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906567316",
+    "name": "Cotanchobee Fort Brooke Park",
+    "city": "Tampa",
+    "lat": 27.9417349,
+    "lon": -82.451216,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Cotanchobee Fort Brooke Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906646217",
+    "name": "Dick Greco Plaza",
+    "city": "Tampa",
+    "lat": 27.9415756,
+    "lon": -82.4548343,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Dick Greco Plaza"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906698704",
+    "name": "Franklin Street Park",
+    "city": "Tampa",
+    "lat": 27.9434459,
+    "lon": -82.4565793,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Franklin Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906698738",
+    "name": "Lee Roy Selmon Park",
+    "city": "Tampa",
+    "lat": 27.9442412,
+    "lon": -82.4545323,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Lee Roy Selmon Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_906720263",
+    "name": "Solstice",
+    "city": "Tampa",
+    "lat": 27.9470804,
+    "lon": -82.4589467,
+    "category": "artwork",
+    "subcategories": [
+      "tourism:artwork"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "area": "yes",
+      "artist_name": "Charles O. Perry",
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Solstice",
+      "tourism": "artwork",
+      "wikimedia_commons": "File:Solstice by Charles O. Perry (3334493688).jpg"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_907388097",
+    "name": "Lykes Gaslight Park",
+    "city": "Tampa",
+    "lat": 27.947921,
+    "lon": -82.4585193,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Lykes Gaslight Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_909471799",
+    "name": "Joe Chillura Courthouse Square",
+    "city": "Tampa",
+    "lat": 27.9490778,
+    "lon": -82.4551425,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Joe Chillura Courthouse Square"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_910921947",
+    "name": "Jefferson Street Park",
+    "city": "Tampa",
+    "lat": 27.946138,
+    "lon": -82.4520625,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Jefferson Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_913067286",
+    "name": "Ferman Center for The Arts",
+    "city": "Tampa",
+    "lat": 27.9460456,
+    "lon": -82.4689333,
+    "category": "arts_centre",
+    "subcategories": [
+      "amenity:arts_centre"
+    ],
+    "address": "214, North Boulevard, Tampa, FL, 33606",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "214",
+      "addr:postcode": "33606",
+      "addr:state": "FL",
+      "addr:street": "North Boulevard",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "building:levels": "4",
+      "name": "Ferman Center for The Arts"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_914204332",
+    "name": "Clara Frye Garden",
+    "city": "Tampa",
+    "lat": 27.9591522,
+    "lon": -82.463414,
+    "category": "garden",
+    "subcategories": [
+      "leisure:garden"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "garden",
+      "name": "Clara Frye Garden"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_923434434",
+    "name": "Madison Street Park",
+    "city": "Tampa",
+    "lat": 27.9516743,
+    "lon": -82.4472822,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Madison Street Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_938814046",
+    "name": "Reed Park",
+    "city": "Tampa",
+    "lat": 27.9854905,
+    "lon": -82.4708904,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "dog": "leashed",
+      "leisure": "park",
+      "name": "Reed Park",
+      "operator": "Keep Tampa Bay Beautiful"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958225638",
+    "name": "Montu",
+    "city": "Tampa",
+    "lat": 28.0341812,
+    "lon": -82.417996,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Montu",
+      "roller_coaster": "station",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958225640",
+    "name": "Cheetah Hunt",
+    "city": "Tampa",
+    "lat": 28.0340576,
+    "lon": -82.4200021,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cheetah Hunt",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958228532",
+    "name": "Sheikra",
+    "city": "Tampa",
+    "lat": 28.0367693,
+    "lon": -82.4244231,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Sheikra",
+      "roller_coaster": "station",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958229525",
+    "name": "Air Grover",
+    "city": "Tampa",
+    "lat": 28.0347164,
+    "lon": -82.425351,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Air Grover",
+      "oneway": "yes",
+      "roller_coaster": "station",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958234059",
+    "name": "Cobra's Curse",
+    "city": "Tampa",
+    "lat": 28.0347653,
+    "lon": -82.4185157,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cobra's Curse",
+      "roller_coaster": "track",
+      "tourism": "attraction",
+      "wikidata": "Q23831274"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958234060",
+    "name": "Cobra's Curse",
+    "city": "Tampa",
+    "lat": 28.034615,
+    "lon": -82.4187221,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Cobra's Curse",
+      "roller_coaster": "station",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_958249644",
+    "name": "Kumba",
+    "city": "Tampa",
+    "lat": 28.0396694,
+    "lon": -82.4233119,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "name": "Kumba",
+      "oneway": "yes",
+      "roller_coaster": "track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_997757341",
+    "name": "Independence Park at Harbor Bay",
+    "city": "Tampa",
+    "lat": 27.8509499,
+    "lon": -82.4795783,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Independence Park at Harbor Bay",
+      "operator": "MacDill AFB"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1042707407",
+    "name": "Technology Park",
+    "city": "Tampa",
+    "lat": 27.9539896,
+    "lon": -82.4525004,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Technology Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1043784499",
+    "name": "Florida Aquarium",
+    "city": "Tampa",
+    "lat": 27.9440393,
+    "lon": -82.444863,
+    "category": "aquarium",
+    "subcategories": [
+      "tourism:aquarium"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "building": "yes",
+      "name": "Florida Aquarium",
+      "tourism": "aquarium",
+      "wikidata": "Q3074266"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1125703110",
+    "name": "Tampa Park Plaza",
+    "city": "Tampa",
+    "lat": 27.957182,
+    "lon": -82.449675,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Tampa Park Plaza"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1146818354",
+    "name": "Sulphur Springs Park",
+    "city": "Tampa",
+    "lat": 28.0209672,
+    "lon": -82.4531977,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": "701, East Bird Street, Tampa, FL, 33604",
+    "website": "https://www.tampa.gov/parks-and-recreation",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:country": "US",
+      "addr:housenumber": "701",
+      "addr:postcode": "33604",
+      "addr:state": "FL",
+      "addr:street": "East Bird Street",
+      "leisure": "park",
+      "name": "Sulphur Springs Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Tampa Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.tampa.gov/parks-and-recreation"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1173369763",
+    "name": "Rey Park",
+    "city": "Tampa",
+    "lat": 27.9619083,
+    "lon": -82.4823434,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "ele": "10",
+      "gnis:feature_id": "289644",
+      "leisure": "park",
+      "name": "Rey Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1207030646",
+    "name": "North Hubert Art Studio",
+    "city": "Tampa",
+    "lat": 27.9474473,
+    "lon": -82.5158112,
+    "category": "arts_centre",
+    "subcategories": [
+      "amenity:arts_centre"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "amenity": "arts_centre",
+      "landuse": "commercial",
+      "name": "North Hubert Art Studio"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1250060458",
+    "name": "9/11 Fallen Heroes Memorial",
+    "city": "Tampa",
+    "lat": 27.9613405,
+    "lon": -82.436974,
+    "category": "historic_memorial",
+    "subcategories": [
+      "historic:memorial"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "war_memorial",
+      "name": "9/11 Fallen Heroes Memorial"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1251873355",
+    "name": "Stanleyville Falls",
+    "city": "Tampa",
+    "lat": 28.0379233,
+    "lon": -82.4240679,
+    "category": "attraction",
+    "subcategories": [
+      "tourism:attraction"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "layer": "-1",
+      "name": "Stanleyville Falls",
+      "roller_coaster": "water_track",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "way_1346995631",
+    "name": "Memorial Park",
+    "city": "Tampa",
+    "lat": 27.863771,
+    "lon": -82.4894019,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Memorial Park"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_1076384",
+    "name": "USF Riverfront Park",
+    "city": "Tampa",
+    "lat": 28.0706051,
+    "lon": -82.3789805,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "landuse": "leisure",
+      "leisure": "park",
+      "name": "USF Riverfront Park",
+      "note": "access only for USF students, faculty, and staff",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_7569902",
+    "name": "Museum of Science & Industry",
+    "city": "Tampa",
+    "lat": 28.0536228,
+    "lon": -82.4043114,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "4801, East Fowler Avenue, Tampa, FL, 33617",
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "4801",
+      "addr:postcode": "33617",
+      "addr:state": "FL",
+      "addr:street": "East Fowler Avenue",
+      "building": "yes",
+      "height": "29.",
+      "name": "Museum of Science & Industry",
+      "tourism": "museum",
+      "type": "multipolygon",
+      "wikidata": "Q1724367"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_7580702",
+    "name": "Tampa Museum of Art",
+    "city": "Tampa",
+    "lat": 27.94947,
+    "lon": -82.4626004,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "120, West Gasparilla Plaza, Tampa, FL, 33602",
+    "website": "https://tampamuseum.org/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "120",
+      "addr:postcode": "33602",
+      "addr:state": "FL",
+      "addr:street": "West Gasparilla Plaza",
+      "building": "yes",
+      "fee": "yes",
+      "height": "23.1",
+      "name": "Tampa Museum of Art",
+      "opening_hours": "Mo-Fr 10:00-17:00; Th 10:00-20:00; Sa-Su 10:00-17:00; Nov Th[4] off; Dec 25 off",
+      "tourism": "museum",
+      "type": "multipolygon",
+      "website": "https://tampamuseum.org/",
+      "wheelchair": "yes",
+      "wikidata": "Q7681719",
+      "wikipedia": "en:Tampa Museum of Art"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_11887952",
+    "name": "Lower Hillsborough Wilderness Preserve",
+    "city": "Tampa",
+    "lat": 28.1055599,
+    "lon": -82.3016764,
+    "category": "nature_reserve",
+    "subcategories": [
+      "leisure:nature_reserve"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Lower Hillsborough Wilderness Preserve",
+      "official_name": "Lower Hillsborough Flood Detention Area",
+      "operator": "Southwest Florida Water Management District",
+      "short_name": "Lower Hillsborough FDA",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_12307376",
+    "name": "Glazer Children's Museum",
+    "city": "Tampa",
+    "lat": 27.9495806,
+    "lon": -82.4615063,
+    "category": "museum",
+    "subcategories": [
+      "tourism:museum"
+    ],
+    "address": "110, West Gasparilla Plaza, Tampa, FL, 33602",
+    "website": "https://glazermuseum.org/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "110",
+      "addr:postcode": "33602",
+      "addr:state": "FL",
+      "addr:street": "West Gasparilla Plaza",
+      "building": "yes",
+      "name": "Glazer Children's Museum",
+      "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-18:00; Su 13:00-18:00; easter off; Nov Th[4] off; Dec 24 off; Dec 25 off",
+      "tourism": "museum",
+      "type": "multipolygon",
+      "website": "https://glazermuseum.org/",
+      "wikidata": "Q16994163",
+      "wikipedia": "en:Glazer Children's Museum"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_13315234",
+    "name": "R. K. Bailey Art Studios",
+    "city": "Tampa",
+    "lat": 27.9467362,
+    "lon": -82.4689319,
+    "category": "gallery",
+    "subcategories": [
+      "tourism:gallery"
+    ],
+    "address": "310, North Boulevard, Tampa, FL, 33606",
+    "website": "https://www.ut.edu/art/baileyartstudios/",
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "addr:city": "Tampa",
+      "addr:housenumber": "310",
+      "addr:postcode": "33606",
+      "addr:state": "FL",
+      "addr:street": "North Boulevard",
+      "building": "yes",
+      "contact:website": "www.ut.edu/art/baileyartstudios/",
+      "name": "R. K. Bailey Art Studios",
+      "owner": "University of Tampa",
+      "tourism": "gallery",
+      "type": "multipolygon",
+      "website": "https://www.ut.edu/art/baileyartstudios/"
+    }
+  },
+  {
+    "source": "osm",
+    "source_id": "relation_13952768",
+    "name": "Perry Havery Senior Park",
+    "city": "Tampa",
+    "lat": 27.9557133,
+    "lon": -82.4551935,
+    "category": "park",
+    "subcategories": [
+      "leisure:park"
+    ],
+    "address": null,
+    "website": null,
+    "phone": null,
+    "wikipedia_title": null,
+    "wikipedia_summary": null,
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "yelp_review_summary": null,
+    "tags": {
+      "leisure": "park",
+      "name": "Perry Havery Senior Park",
+      "type": "multipolygon"
+    }
+  }
+]
