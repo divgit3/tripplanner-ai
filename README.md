@@ -21,7 +21,17 @@ TripPlanner-AI helps users discover attractions based on travel intent and gener
 
 ## Screenshots
 
-(Add 2–3 images here)
+### Home / Search
+![Home](screenshots/home.png)
+
+### Itinerary View
+![Itinerary](screenshots/itinerary.png)
+
+### Map View
+![Map](screenshots/map.png)
+
+### Expanded Stops (Details)
+![Expanded Stops](screenshots/expanded-stops.png)
 
 ---
 
