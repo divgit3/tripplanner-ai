@@ -6,13 +6,16 @@ CATEGORY_RULES = {
         "theme park", "amusement park", "water park", "roller coaster", "rides"
     ],
     "museum": [
-        "museum", "history", "historic", "exhibit", "architecture", "culture"
+        "museum", "history museum", "historic museum", "exhibit", "architecture",
+        "science center", "cultural center"
     ],
     "park": [
-        "park", "outdoor", "walk", "trail", "picnic", "garden", "scenic"
+        "park", "outdoor", "walk", "trail", "picnic", "garden", "scenic",
+        "botanical garden", "riverwalk", "waterfront", "riverfront"
     ],
     "nature_reserve": [
-        "nature", "preserve", "wildlife", "quiet", "hike", "wilderness"
+        "nature", "preserve", "wildlife", "quiet", "hike", "wilderness",
+        "birding", "nature walk"
     ],
     "zoo": [
         "zoo", "animals", "animal"
@@ -21,20 +24,29 @@ CATEGORY_RULES = {
         "aquarium", "marine", "sea life", "fish", "underwater"
     ],
     "gallery": [
-        "gallery", "art", "artist", "exhibition"
+        "gallery", "art gallery", "artist", "exhibition"
+    ],
+    "attraction": [
+        "attraction", "landmark", "must see", "iconic", "tourist spot"
     ],
 }
 
 
 INTENT_RULES = {
     "downtown": ["downtown", "city center", "central"],
-    "tourist": ["tourist", "must see", "landmark", "popular", "sightseeing"],
+    "tourist": ["tourist", "must see", "landmark", "popular", "sightseeing", "iconic"],
     "short_visit": ["short visit", "quick", "1 hour", "2 hours", "brief"],
     "family": ["family", "kids", "children", "child-friendly", "family-friendly"],
-    "art_culture": ["art", "culture", "gallery", "museum"],
+    "family_fun": ["theme park", "amusement park", "water park", "rides", "interactive"],
+    "art_culture": ["art", "culture", "gallery", "museum", "art and culture"],
     "history": ["history", "historic", "heritage"],
     "nature": ["nature", "outdoor", "park", "walk", "trail", "scenic", "quiet"],
-    "family_fun": ["theme park", "amusement park", "water park", "rides"],
+    "romantic": ["romantic", "couples", "date", "sunset", "getaway"],
+    "waterfront": ["waterfront", "riverfront", "riverwalk", "bayfront", "harbor", "beach", "pier", "marina"],
+    "indoor": ["indoor", "inside", "air conditioned"],
+    "hidden_gem": ["hidden gem", "local gem", "less crowded", "offbeat"],
+    "relaxation": ["relaxing", "relaxation", "calm", "peaceful"],
+    "quiet": ["quiet", "peaceful", "calm", "less crowded", "serene"]
 }
 
 
@@ -46,27 +58,25 @@ def infer_categories(query: str) -> List[str]:
     q = normalize_query(query)
     matched_categories = []
 
-    # 1. Specific theme/amusement/water park detection first
-    if any(term in q for term in ["theme park", "amusement park", "water park"]):
+    is_theme_park_query = any(
+        term in q for term in ["theme park", "amusement park", "water park"]
+    )
+
+    if is_theme_park_query:
         matched_categories.append("theme_park")
 
-    # 2. Generic keyword matching
     for category, keywords in CATEGORY_RULES.items():
         if category == "theme_park":
-            continue  # already handled above
+            continue
 
         for keyword in keywords:
             if keyword in q:
-                # Avoid adding generic "park" for theme/amusement/water park queries
-                if category == "park" and any(
-                    term in q for term in ["theme park", "amusement park", "water park"]
-                ):
+                if category == "park" and is_theme_park_query:
                     continue
-
                 matched_categories.append(category)
                 break
 
-    return matched_categories
+    return list(dict.fromkeys(matched_categories))
 
 
 def infer_intents(query: str) -> List[str]:
@@ -79,7 +89,7 @@ def infer_intents(query: str) -> List[str]:
                 matched_intents.append(intent)
                 break
 
-    return matched_intents
+    return list(dict.fromkeys(matched_intents))
 
 
 def interpret_query(query: str) -> Dict:
