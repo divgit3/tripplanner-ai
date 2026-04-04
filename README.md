@@ -8,6 +8,11 @@
 TripPlanner-AI helps users discover attractions based on travel intent and generates structured multi-day itineraries.
 
 ---
+## System Architecture
+
+![TripPlanner AI Architecture](screenshots/systemarchitecture.png)
+
+---
 
 ## Features
 
