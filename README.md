@@ -1,7 +1,7 @@
 
 
 =======
-# TripPlanner-AI
+# Trip Planner-AI
 
 **AI-powered travel planner using semantic search, itinerary generation, and map visualization.**
 
@@ -18,8 +18,13 @@ TripPlanner-AI helps users discover attractions based on travel intent and gener
 - FastAPI backend + Streamlit frontend
 
 ---
+## System Architecture
 
-## Screenshots
+![SystemArch](screenshots/systemarchitecture.png)
+
+---
+
+## Application Screenshots
 
 ### Home / Search
 ![Home](screenshots/home.png)
